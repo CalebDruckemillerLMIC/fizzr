@@ -6,5 +6,3 @@ export const Main: React.FC = () =>
 			<h1>Hello World</h1>
 		</div>
 	);
-
-
